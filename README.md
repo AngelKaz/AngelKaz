@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm AngelKaz</h1>
-<h3 align="center">A passionate website developer.</h3>
+<h3 align="center">A passionate web-developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknownkaz&label=Profile%20views&color=0e75b6&style=flat" alt="UnknownKaz" /> </p>
 
@@ -7,7 +7,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I'm currently working on Athen.
+- 🌱 I'm currently working on Athun.
 
 - 🤝 I’m available for freelancing in the type of FiveM scripts, Websites etc.
 
@@ -19,4 +19,4 @@
 <br/>
 
 
-LAST EDITED (22 November 2023)
+LAST EDITED (30 November 2023)
