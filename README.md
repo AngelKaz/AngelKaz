@@ -7,9 +7,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I'm currently working on Athun.
+- 🌱 Currently working on minecraft plugins.
 
-- 🤝 I’m available for freelancing in the type of FiveM scripts, Websites etc.
+- 🤝 I’m available for freelancing in the type of FiveM scripts, Minecraft plugins, Websites etc.
 
 - 🌱 I'm currently studying in college to be a data technician.
 
@@ -19,4 +19,4 @@
 <br/>
 
 
-LAST EDITED (30 November 2023)
+LAST EDITED (03/01/24)
