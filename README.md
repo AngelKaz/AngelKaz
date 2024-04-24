@@ -31,7 +31,7 @@
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      </td>
     <td align="center">
-       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
      </td>
      <td align="center">
        <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
