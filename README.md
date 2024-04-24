@@ -5,8 +5,8 @@
 
  <table align="center" width="100%" height="100%" >
    <tr>
-     <td> ![Github stats](https://github-readme-stats.vercel.app/api?username=angelkaz&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelkaz&theme=radical&layout=compact)](https://github.com/angelkaz) </td>
+     <td> [Github stats](https://github-readme-stats.vercel.app/api?username=angelkaz&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelkaz&theme=radical&layout=compact)(https://github.com/angelkaz) </td>
    </tr>
 </table>
 
