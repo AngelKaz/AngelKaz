@@ -1,6 +1,7 @@
 <h1 align="center">Hello! I'm Müller</h1>
 <h3 align="center">A passionate developer.</h3>
 
+<br>
 <h2 align="center">Tech i work with</h2>
  <table width="100% height="100%" align="center">
    <tr>
