@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelkaz&label=Profile%20views&color=0e75b6&style=flat" alt="AngelKaz" /> </p>
 
-<h2>Tech i work with</h2>
+<br>
+
+<h2 align="center">Tech i work with</h2>
  <table width="100% height="100%" align="center">
    <tr>
       <td>
